@@ -1,1 +1,1 @@
-# JavaAdvancedTP
+# Java Advanced Genericity TP
